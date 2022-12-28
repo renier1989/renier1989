@@ -2,7 +2,7 @@
 - 👀 I’m interested Backend and Frontend.
 - 🌱 I’m currently learning Vuejs3, Tailwind, React.
 - 💞️ I’m looking to collaborate on Backend and Frontend Projects.
-- 📫 How to reach me https://renier1989.github.io/
+- 📫 How to reach me https://reniervargas.com/
 
 <!---
 renier1989/renier1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
