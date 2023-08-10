@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renier1989
 - 👀 I’m interested Backend and Frontend.
-- 🌱 I’m currently learning Vuejs3, Tailwind, React.
+- 🌱 I’m currently improving my skills on Tailwind, React.
 - 💞️ I’m looking to collaborate on Backend and Frontend Projects.
 - 📫 How to reach me https://reniervargas.com/
 
